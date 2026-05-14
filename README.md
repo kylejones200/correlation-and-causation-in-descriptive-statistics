@@ -1,7 +1,7 @@
 # Correlation and Causation in Descriptive Statistics
 
-**Published:** 2024-03-29
-**Medium:** [https://medium.com/@kyle-t-jones/correlation-and-causation-in-descriptive-statistics-893b5f8f57d0](https://medium.com/@kyle-t-jones/correlation-and-causation-in-descriptive-statistics-893b5f8f57d0)
+Published: 2024-03-29
+Medium: [https://medium.com/@kyle-t-jones/correlation-and-causation-in-descriptive-statistics-893b5f8f57d0](https://medium.com/@kyle-t-jones/correlation-and-causation-in-descriptive-statistics-893b5f8f57d0)
 
 ## About
 

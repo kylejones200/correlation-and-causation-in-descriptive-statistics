@@ -26,7 +26,7 @@ Correlation coefficients measure the strength and direction of the linear relati
 - If r=0, there is no LINEAR relationship between X and Y but there could be another type of relationship (example: quadratic)
 - Strength of correlation is measured by \|𝑟\|, the absolute value of the correlation. For example: a correlation of −0.75 is stronger than a correlation of 0.30 because \|−0.75\|=0.75, which is \> 0.30.
 
-#### **Types of Correlation**
+#### Types of Correlation
 There are four basic kinds of correlation:
 
 - Negative Linear Correlation: As X increases, Y decreases.
@@ -58,15 +58,15 @@ The range of r is between -1 and 1, with:\ 1 means a perfect positive linear rel
 #### Interpreting the Correlation Coefficient
 The absolute value of r indicates the strength of the linear relationship, with larger values indicating stronger relationships. The sign indicates the direction of the relationship (positive or negative). However, correlation does not imply causation between the variables.
 
-#### **Visualizing correlation with scatterplots**
+#### Visualizing correlation with scatterplots
 A scatterplot represents each observation in the data as an ordered pair (x,y)) of observations on two numeric variables, X and Y. For a sample of n observations, there are n pairs of points. Typically, X is the explanatory variable (also called the independent variable or predictor variable), the "input" that we imagine we can change or manipulate within a mathematical formula. And, Y is the dependent variable, or response variable, the variable that represents the "output" of the mathematical formula.
 
 But remember, the value of the correlation coefficient doesn't change if you look at the correlation between X and Y or the correlation between Y and X.
 
-#### **Is the correlation "significant"?**
+#### Is the correlation "significant"?
 Mathematically, you will always get some value if you provide pairs of values and ask for a correlation. But does that correlation coeffienct matter? Can we trust it?
 
-**The t-test for a Correlation Coefficient**
+The t-test for a Correlation Coefficient
 
 How can the t-test be used with a correlation coefficient? We can use a t-test to test whether the correlation between two variables is significant.
 
@@ -74,7 +74,7 @@ How can the t-test be used with a correlation coefficient? We can use a t-test t
 
 where r is the test statistic and the t-distribution has n − 2 degrees of freedom
 
-#### **Correlation and Causation**
+#### Correlation and Causation
 Correlation and Causation are not the same thing. Two variables can be correlated and have no connection in the real world. For example, the correlation between the number of layers in California and the amount of money spent on pets is 0.998. This is nearly perfect! But do we believe that a change in one variable changes the other? Is pet spending *causing* more people to be come lawyers? If not, what's going on?
 
 [Tyler Vigen](http://tylervigen.com/view_correlation?id=28671) has a whole book of the spurious (and absurd) correlations. some of them are hilarious. For example, do [Nicolas Cage movies](https://www.tylervigen.com/spurious-correlations) kill people?
