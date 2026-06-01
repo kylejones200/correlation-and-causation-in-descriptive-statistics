@@ -11,14 +11,7 @@ Correlation measures how closely two variables are related (a relationship). To 
 
 Correlation is symmetric. It doesn't matter which variable is called X and what is called Y: `Corr(X,Y) = Corr(Y,X)`
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
